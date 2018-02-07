@@ -1,0 +1,8 @@
+/Users/xiaozhou/MC/salDetect/build/CMakeFiles/rebuild_cache.dir
+/Users/xiaozhou/MC/salDetect/build/CMakeFiles/edit_cache.dir
+/Users/xiaozhou/MC/salDetect/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/xiaozhou/MC/salDetect/build/lib/CMakeFiles/edit_cache.dir
+/Users/xiaozhou/MC/salDetect/build/lib/CMakeFiles/refh.dir
+/Users/xiaozhou/MC/salDetect/build/cli/CMakeFiles/rebuild_cache.dir
+/Users/xiaozhou/MC/salDetect/build/cli/CMakeFiles/edit_cache.dir
+/Users/xiaozhou/MC/salDetect/build/cli/CMakeFiles/refh_cli.dir
